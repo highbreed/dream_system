@@ -1,0 +1,5 @@
+speedtest-cli
+pandas
+psutil
+logging
+MySQLdb
